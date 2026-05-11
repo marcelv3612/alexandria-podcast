@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>Alexandria Daily</title>
-<link>https://marcelv3612.github.io/alexandria-podcast/</link>
-<language>cs-CZ</language>
-<description>Marcelův denní audio přehled AI/Trading/Longevity/PhD/Pedagogy/Macro/Projects research scan.</description>
-<itunes:author>Marcel Valový</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<itunes:category text="Technology"/>
+  <title>Alexandria Daily</title>
+  <link>https://marcelv3612.github.io/alexandria-podcast/</link>
+  <language>cs-CZ</language>
+  <description>Marcelův denní audio přehled — AI/ML, Trading, Longevity, PhD Research, Pedagogy, Macro, Personal Projects. Generováno z Alexandria knowledge base.</description>
+  <itunes:author>Marcel Valový</itunes:author>
+  <itunes:owner>
+    <itunes:name>Marcel Valový</itunes:name>
+    <itunes:email>marcelv3612@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Technology"/>
+  <itunes:category text="Science"/>
+  <item>
+    <title>Alexandria Daily 2026-05-11 — deep</title>
+    <description>Daily research audio for 2026-05-11. Quick (~7 min) + deep (~60 min).</description>
+    <pubDate>Mon, 11 May 2026 07:23:26 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-11/2026-05-11-deep.mp3" type="audio/mpeg" length="19470816"/>
+    <guid isPermaLink="false">2026-05-11-deep</guid>
+    <itunes:duration>6490</itunes:duration>
+  </item>
+  <item>
+    <title>Alexandria Daily 2026-05-11 — quick</title>
+    <description>Daily research audio for 2026-05-11. Quick (~7 min) + deep (~60 min).</description>
+    <pubDate>Mon, 11 May 2026 07:23:26 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-11/2026-05-11-quick.mp3" type="audio/mpeg" length="1583856"/>
+    <guid isPermaLink="false">2026-05-11-quick</guid>
+    <itunes:duration>527</itunes:duration>
+  </item>
 </channel>
 </rss>
