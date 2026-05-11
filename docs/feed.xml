@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Alexandria Daily</title>
+<link>https://marcelv3612.github.io/alexandria-podcast/</link>
+<language>cs-CZ</language>
+<description>Marcelův denní audio přehled AI/Trading/Longevity/PhD/Pedagogy/Macro/Projects research scan.</description>
+<itunes:author>Marcel Valový</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Technology"/>
+</channel>
+</rss>
