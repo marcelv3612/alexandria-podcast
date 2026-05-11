@@ -19,7 +19,7 @@
     <pubDate>Mon, 11 May 2026 07:23:26 +0000</pubDate>
     <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-11/2026-05-11-deep.mp3" type="audio/mpeg" length="19470816"/>
     <guid isPermaLink="false">2026-05-11-deep</guid>
-    <itunes:duration>6490</itunes:duration>
+    <itunes:duration>3245</itunes:duration>
   </item>
   <item>
     <title>Alexandria Daily 2026-05-11 — quick</title>
@@ -27,7 +27,7 @@
     <pubDate>Mon, 11 May 2026 07:23:26 +0000</pubDate>
     <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-11/2026-05-11-quick.mp3" type="audio/mpeg" length="1583856"/>
     <guid isPermaLink="false">2026-05-11-quick</guid>
-    <itunes:duration>527</itunes:duration>
+    <itunes:duration>263</itunes:duration>
   </item>
 </channel>
 </rss>
