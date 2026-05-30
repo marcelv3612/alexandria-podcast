@@ -3,31 +3,34 @@
 <channel>
   <title>Alexandria Daily</title>
   <link>https://marcelv3612.github.io/alexandria-podcast/</link>
-  <language>cs-CZ</language>
-  <description>Marcelův denní audio přehled — AI/ML, Trading, Longevity, PhD Research, Pedagogy, Macro, Personal Projects. Generováno z Alexandria knowledge base.</description>
-  <itunes:author>Marcel Valový</itunes:author>
-  <itunes:owner>
-    <itunes:name>Marcel Valový</itunes:name>
-    <itunes:email>marcelv3612@gmail.com</itunes:email>
-  </itunes:owner>
+  <language>th-TH</language>
+  <description>Daily research + market briefs from the Alexandria knowledge base.</description>
+  <itunes:author>Marcel Valovy</itunes:author>
+  <itunes:owner><itunes:name>Marcel Valovy</itunes:name><itunes:email>marcelv3612@gmail.com</itunes:email></itunes:owner>
   <itunes:explicit>false</itunes:explicit>
-  <itunes:category text="Technology"/>
-  <itunes:category text="Science"/>
+  <itunes:category text="News"/><itunes:category text="Business"/>
   <item>
-    <title>Alexandria Daily 2026-05-11 — deep</title>
+    <title>Athicha Brief — 2026-05-30</title>
+    <description>Athicha Brief — 2026-05-30</description>
+    <pubDate>Sat, 30 May 2026 03:05:47 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-30-athicha/2026-05-30-athicha.mp3" type="audio/mpeg" length="4933728"/>
+    <guid isPermaLink="false">2026-05-30-athicha.mp3</guid>
+    <itunes:duration>822</itunes:duration>
+  </item>
+  <item>
+    <title>Alexandria Deep — 2026-05-11</title>
     <description>Daily research audio for 2026-05-11. Quick (~7 min) + deep (~60 min).</description>
     <pubDate>Mon, 11 May 2026 07:23:26 +0000</pubDate>
     <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-11/2026-05-11-deep.mp3" type="audio/mpeg" length="19470816"/>
-    <guid isPermaLink="false">2026-05-11-deep</guid>
+    <guid isPermaLink="false">2026-05-11-deep.mp3</guid>
     <itunes:duration>3245</itunes:duration>
   </item>
   <item>
-    <title>Alexandria Daily 2026-05-11 — quick</title>
+    <title>Alexandria Quick — 2026-05-11</title>
     <description>Daily research audio for 2026-05-11. Quick (~7 min) + deep (~60 min).</description>
     <pubDate>Mon, 11 May 2026 07:23:26 +0000</pubDate>
     <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-05-11/2026-05-11-quick.mp3" type="audio/mpeg" length="1583856"/>
-    <guid isPermaLink="false">2026-05-11-quick</guid>
+    <guid isPermaLink="false">2026-05-11-quick.mp3</guid>
     <itunes:duration>263</itunes:duration>
   </item>
-</channel>
-</rss>
+</channel></rss>
