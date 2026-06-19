@@ -10,6 +10,14 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="News"/><itunes:category text="Business"/>
   <item>
+    <title>Athicha Brief — 2026-06-20</title>
+    <description>Athicha Brief — 2026-06-20</description>
+    <pubDate>Fri, 19 Jun 2026 22:38:38 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-06-20-athicha/2026-06-20-athicha.mp3" type="audio/mpeg" length="4992912"/>
+    <guid isPermaLink="false">2026-06-20-athicha.mp3</guid>
+    <itunes:duration>832</itunes:duration>
+  </item>
+  <item>
     <title>Athicha Brief — 2026-06-19</title>
     <description>Athicha Brief — 2026-06-19</description>
     <pubDate>Thu, 18 Jun 2026 22:49:00 +0000</pubDate>
