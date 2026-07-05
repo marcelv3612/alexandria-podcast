@@ -10,14 +10,6 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="News"/><itunes:category text="Business"/>
   <item>
-    <title>Thai Weekly Brief — 2026-06-29 → 2026-07-05</title>
-    <description>Thai Weekly Brief — 2026-06-29 → 2026-07-05</description>
-    <pubDate>Sun, 05 Jul 2026 01:54:04 +0000</pubDate>
-    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-06-29_to_2026-07-05-thai/2026-06-29_to_2026-07-05-thai.mp3" type="audio/mpeg" length="7086672"/>
-    <guid isPermaLink="false">2026-06-29_to_2026-07-05-thai.mp3</guid>
-    <itunes:duration>1181</itunes:duration>
-  </item>
-  <item>
     <title>Thai Brief — 2026-07-05</title>
     <description>Thai Brief — 2026-07-05</description>
     <pubDate>Sun, 05 Jul 2026 01:37:21 +0000</pubDate>
@@ -64,6 +56,14 @@
     <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-06-30-thai/2026-06-30-thai.mp3" type="audio/mpeg" length="5185584"/>
     <guid isPermaLink="false">2026-06-30-thai.mp3</guid>
     <itunes:duration>864</itunes:duration>
+  </item>
+  <item>
+    <title>Thai Weekly Brief — 2026-06-29 → 2026-07-05</title>
+    <description>Thai Weekly Brief — 2026-06-29 → 2026-07-05</description>
+    <pubDate>Sun, 05 Jul 2026 01:54:04 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-06-29_to_2026-07-05-thai/2026-06-29_to_2026-07-05-thai.mp3" type="audio/mpeg" length="7086672"/>
+    <guid isPermaLink="false">2026-06-29_to_2026-07-05-thai.mp3</guid>
+    <itunes:duration>1181</itunes:duration>
   </item>
   <item>
     <title>Thai Brief — 2026-06-29</title>
