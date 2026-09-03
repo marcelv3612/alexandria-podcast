@@ -10,6 +10,14 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="News"/><itunes:category text="Business"/>
   <item>
+    <title>Thai Brief — 2026-09-03</title>
+    <description>Thai Brief — 2026-09-03</description>
+    <pubDate>Thu, 03 Sep 2026 01:39:06 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-09-03-thai/2026-09-03-thai.mp3" type="audio/mpeg" length="8110224"/>
+    <guid isPermaLink="false">2026-09-03-thai.mp3</guid>
+    <itunes:duration>1351</itunes:duration>
+  </item>
+  <item>
     <title>Thai Brief — 2026-09-02</title>
     <description>Thai Brief — 2026-09-02</description>
     <pubDate>Wed, 02 Sep 2026 00:46:47 +0000</pubDate>
