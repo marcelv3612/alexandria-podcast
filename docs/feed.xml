@@ -3,12 +3,20 @@
 <channel>
   <title>Alexandria Daily</title>
   <link>https://marcelv3612.github.io/alexandria-podcast/</link>
-  <language>th-TH</language>
+  <language>en-US</language>
   <description>Daily research + market briefs from the Alexandria knowledge base.</description>
   <itunes:author>Marcel Valovy</itunes:author>
   <itunes:owner><itunes:name>Marcel Valovy</itunes:name><itunes:email>marcelv3612@gmail.com</itunes:email></itunes:owner>
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="News"/><itunes:category text="Business"/>
+  <item>
+    <title>Thai Brief — 2026-09-21</title>
+    <description>Daily Brief — 2026-09-21</description>
+    <pubDate>Mon, 21 Sep 2026 02:06:19 +0000</pubDate>
+    <enclosure url="https://github.com/marcelv3612/alexandria-podcast/releases/download/2026-09-21-thai/2026-09-21-thai.mp3" type="audio/mpeg" length="11932509"/>
+    <guid isPermaLink="false">2026-09-21-thai.mp3</guid>
+    <itunes:duration>1988</itunes:duration>
+  </item>
   <item>
     <title>Thai Brief — 2026-09-12</title>
     <description>Thai Brief — 2026-09-12</description>
